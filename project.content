@@ -1,0 +1,16 @@
+CalculatorSoap12\Add.xml
+CalculatorSoap12\Divide.xml
+CalculatorSoap12\Multiply.xml
+CalculatorSoap12\Subtract.xml
+CalculatorSoap\Add.xml
+CalculatorSoap\Divide.xml
+CalculatorSoap\Multiply.xml
+CalculatorSoap\Subtract.xml
+Project-1-Test-Suite-1\CalculatorSoap12-Add-Add-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap12-Divide-Divide-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap12-Multiply-Multiply-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap12-Subtract-Subtract-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap-Add-Add-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap-Divide-Divide-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap-Multiply-Multiply-Request-Test-Case.xml
+Project-1-Test-Suite-1\CalculatorSoap-Subtract-Subtract-Request-Test-Case.xml
